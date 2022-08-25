@@ -59,5 +59,7 @@ You were given access to a Microsoft OneDrive folder with your name. **Only docu
 1. If you’re including video in your deck, compress the files to MP4 using [HandBrake](https://handbrake.fr/), which is free and available for macOS and Windows.
 2. If you’re including audio, compress the files to MP3 using [Audacity](https://www.audacityteam.org/), which is also free and available for macOS and Windows.
 3. Before adding images to your presentation deck, compress them using [Gimp](https://www.gimp.org/), which is also free and available for macOS and Windows.
-4. With all multimedia items compressed, you can now add them to your deck. Name the deck `midterm-presentation.pdf` if you’re using Adobe Acrobat, `midterm-presentation.ppt` if you’re using Microsoft PowerPoint, or `midterm-presentation.key` if you’re using Apple Keynote. **You may _not_ compose your deck using a software package that is not one of the aforementioned.** **Do not** submit multiple files; only one of type `.pdf`, `.ppt`, or `.key` will be accepted.
+
+### Submitting
+1. With all multimedia items compressed, you can now add them to your deck. Name the deck `midterm-presentation.pdf` if you’re using Adobe Acrobat, `midterm-presentation.ppt` if you’re using Microsoft PowerPoint, or `midterm-presentation.key` if you’re using Apple Keynote. **You may _not_ compose your deck using a software package that is not one of the aforementioned.** **Do not** submit multiple files; only one of type `.pdf`, `.ppt`, or `.key` will be accepted.
 2. Add your deck into your named folder in Microsoft OneDrive.
