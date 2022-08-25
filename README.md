@@ -49,7 +49,7 @@ Your grade is based on the quality of your deck, how you present it, and the inv
 | *Following these instructions* | `25`   |
 
 ## ❖・Due・❖
-Monday, 3 October 2020, at 2:00 PM.
+Monday, 3 October 2022, at 2:00 PM.
 
 ## ❖・Submission・❖
 
